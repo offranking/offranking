@@ -1,8 +1,33 @@
-# Hey Everyone 👋, I'm Biodun Gbenga Tanimola
+# 👋 Hey Everyone, I'm Biodun Gbenga Tanimola
 
 ![Offranking](https://github.com/user-attachments/assets/2aa3733b-8b6e-4c06-bb53-5227f59d9be6)
 
- DevOps & SRE professional with 3+ years of experience in automation, CI/CD, and Infrastructure as Code. Skilled in building and managing scalable, containerized systems with a focus on reliability and simplicity. I design smooth, efficient pipelines—and I love what I do
+I'm a **DevOps & SRE professional** with over **3 years of experience** in automation, CI/CD, and Infrastructure as Code (IaC). I specialize in building and managing scalable, containerized systems with a strong emphasis on **reliability, performance, and simplicity**.
+
+I design smooth, efficient pipelines—and I genuinely love what I do. 💙
+
+---
+
+## 🚀 What I Do
+
+- 🔧 Automate infrastructure with tools like **Terraform**, **Ansible**, and **Pulumi**
+- ⚙️ Implement robust **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, **Jenkins**, and more
+- 🐳 Manage containerized workloads with **Docker** and **Kubernetes**
+- 📈 Monitor systems and ensure uptime as an **SRE** with tools like **Prometheus**, **Grafana**, and **ELK**
+- ☁️ Work with cloud platforms like **AWS**, **Azure**, and **GCP**
+
+---
+
+## 🌍 Let’s Connect
+
+- 🌐 Website: [amtani.io](https://amtani.io)
+- 📂 Explore my projects on [GitHub](https://github.com/offranking)
+- 💬 Ask me anything about **DevOps** & **Cloud Engineering**
+- 📧 Reach me at: [hello@iamtani.oi](mailto:hello@iamtani.oi)
+
+---
+
+> _“Simplicity is the soul of efficiency.”_ – Austin Freeman
 
 <!---
 offranking/offranking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
