@@ -8,7 +8,7 @@ I design smooth, efficient pipelines—and I genuinely love what I do. 💙
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - 🔧 Automate infrastructure with tools like **Terraform**, **Ansible**, and **Pulumi**
 - ⚙️ Implement robust **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, **Jenkins**, and more
@@ -17,6 +17,10 @@ I design smooth, efficient pipelines—and I genuinely love what I do. 💙
 - ☁️ Work with cloud platforms like **AWS**, **Azure**, and **GCP**
 
 ---
+
+## Languages and Tools:
+![Screen Shot 2025-04-23 at 9 29 12 PM](https://github.com/user-attachments/assets/434b9e03-6aab-401b-ab76-a8f23b820607)
+
 
 ## 🌍 Let’s Connect
 
