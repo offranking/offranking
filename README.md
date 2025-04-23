@@ -19,8 +19,10 @@ I design smooth, efficient pipelines—and I genuinely love what I do. 💙
 ---
 
 ## Languages and Tools:
-![Screen Shot 2025-04-23 at 9 29 12 PM](https://github.com/user-attachments/assets/434b9e03-6aab-401b-ab76-a8f23b820607)
-![Uploading Screen Shot 2025-04-23 at 9.29.21 PM.png…]()
+![Screen Shot 2025-04-23 at 9 29 12 PM](https://github.com/user-attachments/assets/434b9e03-6
+![Screen Shot 2025-04-23 at 9 29 21 PM](https://github.com/user-attachments/assets/97d4eaaa-4c86-4463-8caa-c8b4246b236e)
+aab-401b-ab76-a8f23b820607)
+
 
 
 
